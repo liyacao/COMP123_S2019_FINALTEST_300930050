@@ -1,0 +1,7 @@
+﻿Long Sword,10.0,100
+Shield,5.0,50
+Chain Mail Armour,4.0,30
+Draft Horse,10.0,60
+Falcon (Trained),20.0,100
+Crystal Ball,50.0,20
+Quarter Staff,10.0,500
